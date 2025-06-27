@@ -85,12 +85,5 @@ BLACKLIST_IPS = ["103.27.202.91", "185.38.175.132"]
 
 ---
 
-## 📌 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Acknowledgements
-
-Built with 💻 and ☕ by [Your Name]. Inspired by the need for simplified intrusion monitoring in small server environments.
+ Inspired by the need for simplified intrusion monitoring in small server environments.
